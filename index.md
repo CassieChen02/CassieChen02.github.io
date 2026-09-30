@@ -20,4 +20,4 @@ I am a Ph.D. student at the University of International Business and Economics.
 ## 实习经历 
 
 - 【2023.01-2023.02】信永中和会计师事务所，郑州
-- 【2025.08-2025.11】国金证券股份邮箱公司，深圳
+- 【2025.08-2025.11】国金证券股份有限公司，深圳
