@@ -1,5 +1,23 @@
-title: Kexin Chen
-position: Ph.D. Student
-affiliation: University of International Business and Economics
-email: ckx15838802698@163.com
+title: "陈可昕"
+position: "金融学博士生"
+affiliation: "对外经济贸易大学"
+affiliation_link: " "
+description: "陈可昕的个人主页"
+lang: "zh-CN"
+
+avatar: ./photo1.jpg
+
 remote_theme: yaoyao-liu/minimal-light
+
+font: "Serif"
+auto_dark_mode: false
+enable_footnote: true
+
+email: "ckx15838802698@163.com"
+google_scholar: ""
+cv_link: ""
+github_link: ""
+linkedin: ""
+twitter: ""
+google_analytics: ""
+canonical: ""
